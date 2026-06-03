@@ -1,0 +1,8 @@
+{
+  "name": "Airline Management Tycoon",
+  "description": "A single-player airline management simulator where you compete against AI airlines for routes, adjust pricing, and expand your fleet in a dynamic economy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
